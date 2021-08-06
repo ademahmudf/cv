@@ -16,88 +16,69 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Informatics Engineering
+    time: 2016-2019
+    university: STT Bandung
 
 skills:
-  - category: Backend
+  - category: Programming
     skill: 
       - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
+      - Python
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+      - CI/CD
+      - Terraform
+      - Ansible
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  During my job experience, i had practical skills with intereseting technologies, building, maintaining,
+  monitoring and securing infrastructure on cloud (gcp & aws) and on-premise, and setup automating
+  deployment using CI/CD Pipeline concept. Experienced working with microservices architecture, High
+  Availability and fail over topology to ensure that system always up and running.
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Infra & DevOps Engineer
     time: 2020-Present
-    company: Google
+    company: 99 Group
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Building and maintaining high availability and scalability infrastructure on GCP using kubernetes,
+      and on AWS using ECS.
+      Build and setup observaibility tools for monitoring and logging infrastructure.
+      Developing and maintaining autometed CI/CD pipelines for code deployment.
+      Setup custom metrics on Kubernetes for scaling based on QPS
+      Implementing IaaC (Infrastructure as a Code) using terraform.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Docker, Kubernetes, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, AWS, GCP.
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Docker & Kubernetes Instructure 
+    time: 2020-Present
+    company: KUASAI.ID
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Teaching online class docker, docker swarm, and kubernetes.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Docker and Kubernetes
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: TBA.
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Ade Mahmud
+    conference: Medium blog, 2020
 
 projects:
-  - title: Cool Project 
+  - title: TBA
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Project that i participate.
 
 # Volunteering
 volunteering:
   - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+    role: TBA
+    company: ...
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      ... 
