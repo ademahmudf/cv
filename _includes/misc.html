@@ -1,0 +1,9 @@
+{% assign misc = site.data.data.misc %}
+{% if misc %}
+<section class="misc">
+    <div class="title">Misc</div>
+    {% for misc in misc %}
+        <div class="misc">{{misc.misc}}</div>
+    {% endfor %}
+</section>
+{% endif %}

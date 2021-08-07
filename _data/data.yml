@@ -10,6 +10,7 @@ contact:
   phone: +62xxxxxxxxx
   gitlab: 
   twitter: 
+  main: ademahmudf.github.io
 
 languages:
   - idiom: Indonesia
@@ -39,9 +40,9 @@ skills:
       - Ansible
       - GCP
       - AWS
-Misc:
-  - version: 3.0
-    Updated: Aug 2021
+misc:
+  - misc: CV version 3.0
+  - misc: Last update Aug 2021
 
 # Profile
 profile: |

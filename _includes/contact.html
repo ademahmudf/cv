@@ -55,5 +55,14 @@
             </a>
         </div>
     {% endif %}
+
+    {% if contact.main %}
+        <div class="contact-item">
+            <i data-feather="main"></i>
+            <a href="{{contact.main}}">
+                {{contact.main}}
+            </a>
+        </div>
+    {% endif %}
 </section>
 {% endif %}
