@@ -1,0 +1,9 @@
+.misc {
+    margin-bottom: 20px;
+    .title {
+        @include sub-header;
+    }
+    .misc {
+        @include body-text;
+    }
+}
