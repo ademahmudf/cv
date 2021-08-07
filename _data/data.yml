@@ -7,7 +7,7 @@ contact:
   email: ademahmud.media@gmail.com
   github: ademahmudf
   linkedin: ademahmudf
-  phone: 
+  phone: +62xxxxxxxxx
   gitlab: 
   twitter: 
 
@@ -19,6 +19,10 @@ education:
   - degree: Informatics Engineering
     time: 2016-2019
     university: STT Bandung
+  
+  - degree: Computer Network
+    time: 2009-2013
+    university: SMK N 4 Bandung (4 years program)
 
 skills:
   - category: Scripting 
@@ -38,7 +42,7 @@ skills:
 
 # Profile
 profile: |
-  During my job experience, i had practical skills with intereseting technologies, building, maintaining,
+  I have 8 years experiene on professional career. During my job experience, i had practical skills with intereseting technologies, building, maintaining,
   monitoring and securing infrastructure on cloud (gcp & aws) and on-premise, and setup automating
   deployment using CI/CD Pipeline concept. Experienced working with microservices architecture, High
   Availability and fail over topology to ensure that system always up and running.
@@ -71,7 +75,7 @@ experience:
     company: DAKSA
     details: |
       Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins
-      Provisioning servers and deploy feature using ansible/bash/python.
+      Provisioning infrastructure.
       Built and deploy docker containers for implementing Microservices architecture.
       Orchestrated docker container cluster using kubernetes
     technologies_used: | 
@@ -116,29 +120,34 @@ projects:
   - title: DooEt (QNB Mobile Banking)
     link: #
     details: |
+      DevOps Eningeer - 
       Setup and securing HA server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: CRM (Customer Relationship Manager)
     link: #
     details: |
+      DevOps Eningeer - 
       Setup and securing server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: SANDRA (Switching and Routing Agent)
-    link: #
+    link: 
     details: |
-      Switching core that used by many BPR in Indonesia.
+      DevOps Eningeer - 
+      Setup and securing linux server for wwitching core that used by many BPR in Indonesia.
 
   - title: QVA (QNB Virtual Account)
     link: #
     details: |
+      DevOps Eningeer - 
       Setup and securing server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: Indosat Super Wifi
     link: #
     details: |
+      Field Technician - 
       Build and configure wireless network over Bandung city.
 
 # Volunteering
