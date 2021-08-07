@@ -39,6 +39,9 @@ skills:
       - Ansible
       - GCP
       - AWS
+Misc:
+  - version: 3.0
+    Updated: Aug 2021
 
 # Profile
 profile: |
