@@ -1,4 +1,4 @@
-name: Ade Mahmud
+name: Ade Mahmud v3.0
 support_dark_mode: true
 fork: false
 
@@ -21,10 +21,11 @@ education:
     university: STT Bandung
 
 skills:
-  - category: Programming
+  - category: Scripting 
     skill: 
-      - Go
+      - Bash
       - Python
+      - Go
   - category: DevOps
     skill:
       - Docker
@@ -32,6 +33,8 @@ skills:
       - CI/CD
       - Terraform
       - Ansible
+      - GCP
+      - AWS
 
 # Profile
 profile: |
@@ -81,17 +84,16 @@ experience:
       Setup High Availabilty and fail over using HAproy
       Setup wildfly clustering
       Setup PostgreSQL replication
+      Securing and Hardening Linux Server
       Setup network topology using mikrotik router.
     technologies_used: | 
-      Mikrotik router, PostgreSQL, WIldfly, GLassFish, HAproxy
+      Mikrotik router, PostgreSQL, WIldfly, GLassFish, HAproxy, Linux CentOS
   
   - role: Technical Support
     time: 2013-2014
     company: Melvar Lintasnusa PT
     details: |
-      Receiving complaints from customers
-      Troubleshooting network, server, etc.
-      Monitoing servers and backbone
+      Monitoring and troubleshooting network layer and servers.
       Install and configuring modem ADSL, Router (d-link, tp-link, MikroTik, etc)
     technologies_used: | 
       Mikrotik router, ADSl/SDSL Modem.
@@ -100,7 +102,7 @@ experience:
     time: 2013-2013
     company: Firna Telemedia CV
     details: |
-      Install and configuring Access Point and cisco switch.
+      Install and configuring Wireless Access Point and cisco switch.
     technologies_used: | 
       Access Point Hardware, Cisco switch/router.
 
@@ -111,10 +113,33 @@ publications:
     conference: Medium blog, 2020
 
 projects:
-  - title: TBA
+  - title: DooEt (QNB Mobile Banking)
     link: #
     details: |
-      Project that i participate.
+      Setup and securing HA server for the application services.
+      Monitoring and maintain the server itself and manage deployment application.
+
+  - title: CRM (Customer Relationship Manager)
+    link: #
+    details: |
+      Setup and securing server for the application services.
+      Monitoring and maintain the server itself and manage deployment application.
+
+  - title: SANDRA (Switching and Routing Agent)
+    link: #
+    details: |
+      Switching core that used by many BPR in Indonesia.
+
+  - title: QVA (QNB Virtual Account)
+    link: #
+    details: |
+      Setup and securing server for the application services.
+      Monitoring and maintain the server itself and manage deployment application.
+
+  - title: Indosat Super Wifi
+    link: #
+    details: |
+      Build and configure wireless network over Bandung city.
 
 # Volunteering
 volunteering:
