@@ -23,7 +23,7 @@ education:
   
   - degree: Computer Network
     time: 2009-2013
-    university: SMK N 4 Bandung (4 years program)
+    university: SMK N 4 Bandung
 
 skills:
   - category: Scripting 
@@ -66,7 +66,7 @@ experience:
       and on AWS using ECS. <br />
       Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger. <br />
       Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD. <br />
-      Setup custom metrics on Kubernetes for scaling pod using QPS & Latency metrics. <br />
+      Setup custom metrics on Kubernetes for scaling pods using QPS & Latency metrics. <br />
       Implemented traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio. <br />
       Implementing IaaC (Infrastructure as a Code) using terraform. <br />
       Reduced the cost on cloud infrastructure by optimize the resources usage.
@@ -129,39 +129,39 @@ experience:
 #    authors: Ade Mahmud
 #    conference: Medium blog, 2020
 
-projects:
-  - title: DooEt (QNB Mobile Banking)
-    link: #
-    details: |
-      DevOps Eningeer <br />
-      Setup and securing HA server for the application services.
-      Monitoring and maintain the server itself and manage deployment application.
-
-  - title: CRM (Customer Relationship Manager)
-    link: #
-    details: |
-      DevOps Eningeer <br />
-      Setup and securing server for the application services.
-      Monitoring and maintain the server itself and manage deployment application.
-
-  - title: SANDRA (Switching and Routing Agent)
-    link: 
-    details: |
-      DevOps Eningeer <br />
-      Setup and securing linux server for wwitching core that used by many BPR in Indonesia.
-
-  - title: QVA (QNB Virtual Account)
-    link: #
-    details: |
-      DevOps Eningeer <br />
-      Setup and securing server for the application services.
-      Monitoring and maintain the server itself and manage deployment application.
-
-  - title: Indosat Super Wifi
-    link: #
-    details: |
-      Field Technician <br />
-      Build and configure wireless network over Bandung city.
+#projects:
+#  - title: DooEt (QNB Mobile Banking)
+#    link: #
+#    details: |
+#      DevOps Eningeer <br />
+#      Setup and securing HA server for the application services.
+#      Monitoring and maintain the server itself and manage deployment application.
+#
+#  - title: CRM (Customer Relationship Manager)
+#    link: #
+#    details: |
+#      DevOps Eningeer <br />
+#      Setup and securing server for the application services.
+#      Monitoring and maintain the server itself and manage deployment application.
+#
+#  - title: SANDRA (Switching and Routing Agent)
+#    link:
+#    details: |
+#      DevOps Eningeer <br />
+#      Setup and securing linux server for wwitching core that used by many BPR in Indonesia.
+#
+#  - title: QVA (QNB Virtual Account)
+#    link: #
+#    details: |
+#      DevOps Eningeer <br />
+#      Setup and securing server for the application services.
+#      Monitoring and maintain the server itself and manage deployment application.
+#
+#  - title: Indosat Super Wifi
+#    link: #
+#    details: |
+#      Field Technician <br />
+#      Build and configure wireless network over Bandung city.
 
 # Volunteering
 #volunteering:
