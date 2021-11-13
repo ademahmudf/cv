@@ -1,4 +1,4 @@
-name: Ade Mahmud v3.0
+name: Ade Mahmud Patoni
 support_dark_mode: true
 fork: false
 
@@ -7,7 +7,7 @@ contact:
   email: ademahmud.media@gmail.com
   github: ademahmudf
   linkedin: ademahmudf
-  phone: +62xxxxxxxxx
+  phone: +62817340082
   gitlab: 
   twitter: 
   # main: ademahmudf.github.io
@@ -31,40 +31,45 @@ skills:
       - Bash
       - Python
       - Go
-  - category: DevOps
+  - category: Technology and tools
     skill:
-      - Docker
+      - AWS
+      - GCP
       - Kubernetes
-      - CI/CD
       - Terraform
       - Ansible
-      - GCP
-      - AWS
+      - Jenkins/Travis-ci/Tekton/FluxCD
+      - Flagger
+      - Istio
+      - Grafana, Prometheus, Loki
+      - Elasticsearch, Kibana
 misc:
   - miscs: CV version 3.0
-  - miscs: Last update Aug 2021
+  - miscs: Last update Nov 2021
 
 # Profile
 profile: |
   I have 8 years experiene on professional career. During my job experience, i had practical skills with intereseting technologies, building, maintaining,
-  monitoring and securing infrastructure on cloud (gcp & aws) and on-premise, and setup automating
-  deployment using CI/CD Pipeline concept. Experienced working with microservices architecture, High
-  Availability and fail over topology to ensure that system always up and running.
+  monitoring and securing infrastructure on cloud (GCP & AWS) and on-premise, and setup automating
+  deployment using CI/CD Pipeline, and GitOps concept. Experienced working with monolith & microservices architecture, High
+  Availability and fail over topology.
 
 # Experience
 experience:
-  - role: Infra & DevOps Engineer
+  - role: Infra & DevOps Engineer Lead
     time: 2020-Present
     company: 99 Group
     details: |
+      Took lead to improve the development process by leveraging the technology stack and standarization.
       Building and maintaining high availability and scalability infrastructure on GCP using kubernetes,
       and on AWS using ECS.
-      Build and setup observaibility tools for monitoring and logging infrastructure.
-      Developing and maintaining autometed CI/CD pipelines for code deployment.
-      Setup custom metrics on Kubernetes for scaling based on QPS
+      Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger.
+      Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD.
+      Setup custom metrics on Kubernetes for scaling pod using QPS & Latency metrics.
+      Implement traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio.
       Implementing IaaC (Infrastructure as a Code) using terraform.
     technologies_used: | 
-      Docker, Kubernetes, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, AWS, GCP.
+      AWS, GCP, Docker, Kubernetes, ECS, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, Istio, Flagger, Grafana, Loki, prometheus, kibana, elasticsearh, jaeger.
   
   - role: Docker & Kubernetes Instructure 
     time: 2020-Present
@@ -78,10 +83,11 @@ experience:
     time: 2019-2020
     company: DAKSA
     details: |
-      Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins
-      Provisioning infrastructure.
+      Implemented the migration of microservices applications from on-prem server to GCP.
+      Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins & Ansible.
       Built and deploy docker containers for implementing Microservices architecture.
-      Orchestrated docker container cluster using kubernetes
+      Provision Kubernetes cluster on on-prem server using kubeadm
+      Orchestrated docker container cluster using kubernetes.
     technologies_used: | 
       Docker, Kubernetes, Jenkins, Maven, Wildfly, GlassFish
   
@@ -114,11 +120,11 @@ experience:
     technologies_used: | 
       Access Point Hardware, Cisco switch/router.
 
-publications:
-  - title: TBA.
-    link: "#"
-    authors: Ade Mahmud
-    conference: Medium blog, 2020
+#publications:
+#  - title: TBA.
+#    link: "#"
+#    authors: Ade Mahmud
+#    conference: Medium blog, 2020
 
 projects:
   - title: DooEt (QNB Mobile Banking)
@@ -155,9 +161,9 @@ projects:
       Build and configure wireless network over Bandung city.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: TBA
-    company: ...
-    details: |
-      ... 
+#volunteering:
+#  - time: 2020-Present
+#    role: TBA
+#    company: ...
+#    details: |
+#      ...
