@@ -49,10 +49,11 @@ misc:
 
 # Profile
 profile: |
-  I have 8 years experiene on professional career. During my job experience, i had practical skills with intereseting technologies, building, maintaining,
-  monitoring and securing infrastructure on cloud (GCP & AWS) and on-premise, and setup automating
-  deployment using CI/CD Pipeline, and GitOps concept. Experienced working with monolith & microservices architecture, High
-  Availability and fail over topology.
+  I started my professional career as a Wireless Engineer in Indosat Super Wifi project 8 years ago, until now transformed into DevOps Engineer. <br />
+  During my job experience, i had practical skills with intereseting technologies. <br />
+  Experienced in building, maintaining, monitoring and securing infrastructure on cloud (GCP & AWS) and on-premise, and setup automating
+  deployment using CI/CD Pipeline, and GitOps concept. <br />
+  Experienced working with monolith & microservices architecture, High Availability and fail over topology.
 
 # Experience
 experience:
@@ -60,14 +61,16 @@ experience:
     time: 2020-Present
     company: 99 Group
     details: |
-      Took lead to improve the development process by leveraging the technology stack and standarization.
+      Took lead to improve the development process by leveraging the technology stack and standarization. <br />
       Building and maintaining high availability and scalability infrastructure on GCP using kubernetes,
-      and on AWS using ECS.
-      Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger.
-      Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD.
-      Setup custom metrics on Kubernetes for scaling pod using QPS & Latency metrics.
-      Implement traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio.
-      Implementing IaaC (Infrastructure as a Code) using terraform.
+      and on AWS using ECS. <br />
+      Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger. <br />
+      Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD. <br />
+      Setup custom metrics on Kubernetes for scaling pod using QPS & Latency metrics. <br />
+      Implemented traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio. <br />
+      Implementing IaaC (Infrastructure as a Code) using terraform. <br />
+      Reduced the cost on cloud infrastructure by optimize the resources usage.
+
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, ECS, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, Istio, Flagger, Grafana, Loki, prometheus, kibana, elasticsearh, jaeger.
   
@@ -83,10 +86,10 @@ experience:
     time: 2019-2020
     company: DAKSA
     details: |
-      Implemented the migration of microservices applications from on-prem server to GCP.
-      Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins & Ansible.
-      Built and deploy docker containers for implementing Microservices architecture.
-      Provision Kubernetes cluster on on-prem server using kubeadm
+      Implemented the migration of microservices applications from on-prem server to GCP. <br />
+      Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins & Ansible. <br />
+      Built and deploy docker containers for implementing Microservices architecture. <br />
+      Provision Kubernetes cluster on on-prem server using kubeadm. <br />
       Orchestrated docker container cluster using kubernetes.
     technologies_used: | 
       Docker, Kubernetes, Jenkins, Maven, Wildfly, GlassFish
@@ -95,10 +98,10 @@ experience:
     time: 2015-2019
     company: DAKSA
     details: |
-      Setup High Availabilty and fail over using HAproy
-      Setup wildfly clustering
-      Setup PostgreSQL replication
-      Securing and Hardening Linux Server
+      Setup High Availabilty and fail over using HAproy. <br />
+      Setup wildfly clustering. <br />
+      Setup PostgreSQL replication. <br />
+      Securing and Hardening Linux Server. <br />
       Setup network topology using mikrotik router.
     technologies_used: | 
       Mikrotik router, PostgreSQL, WIldfly, GLassFish, HAproxy, Linux CentOS
@@ -107,7 +110,7 @@ experience:
     time: 2013-2014
     company: Melvar Lintasnusa PT
     details: |
-      Monitoring and troubleshooting network layer and servers.
+      Monitoring and troubleshooting network layer and servers. <br />
       Install and configuring modem ADSL, Router (d-link, tp-link, MikroTik, etc)
     technologies_used: | 
       Mikrotik router, ADSl/SDSL Modem.
@@ -130,34 +133,34 @@ projects:
   - title: DooEt (QNB Mobile Banking)
     link: #
     details: |
-      DevOps Eningeer - 
+      DevOps Eningeer <br />
       Setup and securing HA server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: CRM (Customer Relationship Manager)
     link: #
     details: |
-      DevOps Eningeer - 
+      DevOps Eningeer <br />
       Setup and securing server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: SANDRA (Switching and Routing Agent)
     link: 
     details: |
-      DevOps Eningeer - 
+      DevOps Eningeer <br />
       Setup and securing linux server for wwitching core that used by many BPR in Indonesia.
 
   - title: QVA (QNB Virtual Account)
     link: #
     details: |
-      DevOps Eningeer - 
+      DevOps Eningeer <br />
       Setup and securing server for the application services.
       Monitoring and maintain the server itself and manage deployment application.
 
   - title: Indosat Super Wifi
     link: #
     details: |
-      Field Technician - 
+      Field Technician <br />
       Build and configure wireless network over Bandung city.
 
 # Volunteering
