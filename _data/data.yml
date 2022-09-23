@@ -65,8 +65,9 @@ experience:
       Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
       Such as CICD, monitoring & logging, IaC implementation, secret management to achieve self service DevOps. <br />
       Create core competencies for Cloud Platform team. <br />
-      Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, and operational stability. <br />
+      Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, cost optimize and operational stability. <br />
       Improve delivery process with CICD and GitOps Adoption. <br />
+      Implement FourKeys metrics to measure performance of software delivery. <br />
 
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
