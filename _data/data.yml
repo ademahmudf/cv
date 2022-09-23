@@ -7,7 +7,7 @@ contact:
   email: ademahmud.media@gmail.com
   github: ademahmudf
   linkedin: ademahmudf
-  phone: +628xxxxxxxx
+  phone: +62817340082
   gitlab: 
   twitter: 
   # main: ademahmudf.github.io
@@ -30,22 +30,22 @@ skills:
     skill: 
       - Bash
       - Python
-      - Go
   - category: Technology and tools
     skill:
-      - AWS
-      - GCP
-      - Kubernetes
+      - AWS (Amazon Web Services)
+      - GCP (Google Cloud Platform)
+      - Kubernetes/Docker Swarm
       - Terraform
       - Ansible
-      - Jenkins/Travis-ci/Tekton/FluxCD
+      - Jenkins/Travis-ci/Tekton/FluxCD/ArgoCD/Gitlab
       - Flagger
-      - Istio
+      - Istio Service Mesh
       - Grafana, Prometheus, Loki
       - Elasticsearch, Kibana
+      - Hashicorp Vault
 misc:
   - miscs: CV version 3.0
-  - miscs: Last update Nov 2021
+  - miscs: Last update Sep 2022
 
 # Profile
 profile: |
@@ -57,8 +57,22 @@ profile: |
 
 # Experience
 experience:
+  - role: DevSecOps Manager
+    time: May 2022-Present
+    company: SIRCLO GROUP (New Retail Enablement)
+    details: |
+      Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques. <br />
+      Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
+      Such as CICD, monitoring & logging, IaC implementation, secret management to achieve self service DevOps. <br />
+      Create core competencies for Cloud Platform team. <br />
+      Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, and operational stability. <br />
+      Improve delivery process with CICD and GitOps Adoption. <br />
+
+    technologies_used: | 
+      AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
+ 
   - role: Infra & DevOps Engineer Lead
-    time: 2020-Present
+    time: 2020-2022
     company: 99 Group
     details: |
       Took lead to improve the development process by leveraging the technology stack and standarization. <br />
