@@ -49,10 +49,11 @@ misc:
 
 # Profile
 profile: |
-  I started my professional career as a Wireless Engineer in Indosat Super Wifi project 8 years ago, until now transformed into DevOps Engineer. <br />
+  I started my professional career as a Wireless Engineer in Indosat Super Wifi project 9 years ago, until now transformed into DevSecOps Manager. <br />
   During my job experience, i had practical skills with intereseting technologies. <br />
   Experienced in building, maintaining, monitoring and securing infrastructure on cloud (GCP & AWS) and on-premise, and setup automating
   deployment using CI/CD Pipeline, and GitOps concept. <br />
+  Building SRE & DBA team, acting as DevOps enabler to implement DevOps as a culture. <br /> 
   Experienced working with monolith & microservices architecture, High Availability and fail over topology.
 
 # Experience
