@@ -59,7 +59,7 @@ profile: |
 # Experience
 experience:
   - role: DevSecOps Manager
-    time: May 2022-Present
+    time: MAY 2022 - Present
     company: SIRCLO GROUP (New Retail Enablement)
     details: |
       Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques. <br />
@@ -74,7 +74,7 @@ experience:
       AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
  
   - role: Infra & DevOps Engineer Lead
-    time: 2020-2022
+    time: AUG 2020 - MAY 2022
     company: 99 Group
     details: |
       Took lead to improve the development process by leveraging the technology stack and standarization. <br />
@@ -91,7 +91,7 @@ experience:
       AWS, GCP, Docker, Kubernetes, ECS, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, Istio, Flagger, Grafana, Loki, prometheus, kibana, elasticsearh, jaeger.
   
   - role: Docker & Kubernetes Instructure 
-    time: 2020-Present
+    time: AUG 2020 - Present
     company: KUASAI.ID
     details: |
       Teaching online class docker, docker swarm, and kubernetes.
@@ -99,7 +99,7 @@ experience:
       Docker and Kubernetes
   
   - role: DevOps Engineer 
-    time: 2019-2020
+    time: FEB 2019 - JUL 2020
     company: DAKSA
     details: |
       Implemented the migration of microservices applications from on-prem server to GCP. <br />
@@ -111,7 +111,7 @@ experience:
       Docker, Kubernetes, Jenkins, Maven, Wildfly, GlassFish
   
   - role: Network and System Administrator 
-    time: 2015-2019
+    time: MAR 2015 - FEB 2019
     company: DAKSA
     details: |
       Setup High Availabilty and fail over using HAproy. <br />
@@ -123,7 +123,7 @@ experience:
       Mikrotik router, PostgreSQL, WIldfly, GLassFish, HAproxy, Linux CentOS
   
   - role: Technical Support
-    time: 2013-2014
+    time: NOV 2013 - NOV 2014
     company: Melvar Lintasnusa PT
     details: |
       Monitoring and troubleshooting network layer and servers. <br />
@@ -132,7 +132,7 @@ experience:
       Mikrotik router, ADSl/SDSL Modem.
 
   - role: Field Technician
-    time: 2013-2013
+    time: JAN 2013 - JUN 2013
     company: Firna Telemedia CV
     details: |
       Install and configuring Wireless Access Point and cisco switch.
