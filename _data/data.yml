@@ -35,7 +35,7 @@ skills:
       - AWS (Amazon Web Services)
       - GCP (Google Cloud Platform)
       - Kubernetes/Docker Swarm
-      - Terraform
+      - Terraform/Pulumi
       - Ansible
       - Jenkins/Travis-ci/Tekton/FluxCD/ArgoCD/Gitlab
       - Flagger
