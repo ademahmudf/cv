@@ -62,8 +62,10 @@ experience:
     time: DEC 2022 - Present
     company: Warung Pintar
     details: |
-        - TBA
-
+      <ul>
+        <li>TBA</li>
+        <li>TBA</li>
+      </ul>
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
 
