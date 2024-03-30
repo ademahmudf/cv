@@ -58,17 +58,26 @@ profile: |
 
 # Experience
 experience:
-  - role: DevSecOps Manager
-    time: MAY 2022 - Present
+  - role: Principal DevOps Engineer
+    time: DEC 2022 - Present
     company: Warung Pintar
     details: |
-      Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques. <br />
-      Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
+      - TBA
+
+    technologies_used: | 
+      AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
+
+  - role: DevSecOps Manager
+    time: MAY 2022 - NOV 2022
+    company: Warung Pintar
+    details: |
+      - Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques. <br />
+      - Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
       Such as CICD, monitoring & logging, IaC implementation, secret management to achieve self service DevOps. <br />
-      Create core competencies for Cloud Platform team. <br />
-      Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, cost optimize and operational stability. <br />
-      Improve delivery process with CICD and GitOps Adoption. <br />
-      Implement FourKeys metrics to measure performance of software delivery. <br />
+      - Create core competencies for Cloud Platform team. <br />
+      - Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, cost optimize and operational stability. <br />
+      - Improve delivery process with CICD and GitOps Adoption. <br />
+      - Implement FourKeys metrics to measure performance of software delivery. <br />
 
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
