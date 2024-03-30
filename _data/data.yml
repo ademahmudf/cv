@@ -32,17 +32,19 @@ skills:
       - Python
   - category: Technology and tools
     skill:
-      - AWS (Amazon Web Services)
-      - GCP (Google Cloud Platform)
-      - Kubernetes/Docker Swarm
-      - Terraform/Pulumi
-      - Ansible
-      - Jenkins/Travis-ci/Tekton/FluxCD/ArgoCD/Gitlab
-      - Flagger
-      - Istio Service Mesh
-      - Grafana, Prometheus, Loki
-      - Elasticsearch, Kibana
-      - Hashicorp Vault
+      <ul>
+      <li>AWS (Amazon Web Services)</li>
+      <li>GCP (Google Cloud Platform)</li>
+      <li>Kubernetes/Docker Swarm</li>
+      <li>Terraform/Pulumi</li>
+      <li>Ansible</li>
+      <li>Jenkins/Travis-ci/Tekton/FluxCD/ArgoCD/Gitlab</li>
+      <li>Flagger</li>
+      <li>Istio Service Mesh</li>
+      <li>Grafana, Prometheus, Loki</li>
+      <li>Elasticsearch, Kibana</li>
+      <li>Hashicorp Vault</li>
+      </ul>
 misc:
   - miscs: CV version 3.0
   - miscs: Last update Sep 2022
@@ -60,7 +62,7 @@ profile: |
 experience:
   - role: Principal DevOps Engineer
     time: DEC 2022 - Present
-    company: Amartha Micro Fintek
+    company: Amartha Mikro Fintek
     details: |
       <ul>
         <li>TBA</li>
