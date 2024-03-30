@@ -28,8 +28,10 @@ education:
 skills:
   - category: Scripting 
     skill: 
-      - Bash
-      - Python
+      <ul>
+        <li>Bash</li>
+        <li>Python</li>
+      </ul>
   - category: Technology and tools
     skill:
       <ul>
@@ -44,6 +46,7 @@ skills:
       <li>Grafana, Prometheus, Loki</li>
       <li>Elasticsearch, Kibana</li>
       <li>Hashicorp Vault</li>
+      <li>Apache Kafka</li>
       </ul>
 misc:
   - miscs: CV version 3.0
@@ -51,9 +54,11 @@ misc:
 
 # Profile
 profile: |
-  I started my professional career as a Wireless Engineer in Indosat Super Wifi project 9 years ago, until now transformed into DevSecOps Manager. <br />
+  Experienced DevOps engineer with expertise in both leadership and hands-on roles. <br />
   During my job experience, i had practical skills with intereseting technologies. <br />
-  Experienced in building, maintaining, monitoring and securing infrastructure on cloud (GCP & AWS) and on-premise, and setup automating
+  Experienced in building, maintaining, monitoring and securing infrastructure on cloud (GCP & AWS) 
+  and on-premise, container orchestrator setup (such as Kubernetes), self-managed databases 
+  (replication setup for DRC and automation), server hardening for banking systems, and setup automating
   deployment using CI/CD Pipeline, and GitOps concept. <br />
   Building SRE & DBA team, acting as DevOps enabler to implement DevOps as a culture. <br /> 
   Experienced working with monolith & microservices architecture, High Availability and fail over topology.
@@ -65,11 +70,19 @@ experience:
     company: Amartha Mikro Fintek
     details: |
       <ul>
-        <li>TBA</li>
-        <li>TBA</li>
+        <li>Conducting an assessment of infrastructure and implementing improvements (enhancing website infrastructure 
+        to accommodate high traffic, optimizing cloud run configuration to handle high transactions per second).</li>
+        <li>Upgrading PostgreSQL database from version 9.6 to version 11.</li>
+        <li>Initiating a project for migration to Kubernetes.</li>
+        <li>Initiating CI/CD for deployment to Kubernetes.</li>
+        <li>Engaging in on-call support to enhance automation and reduce repetitive tasks.</li>
+        <li>Collaborating with the principal engineer to establish a "golden path," a team dedicated 
+        to standardizing the technology to be utilized at Amartha.</li>
+        <li>Implementing enhancements to our disaster recovery (DR) procedures to ensure compliance with regulations while optimizing costs.</li>
+        <li>Assisting in the creation of Standard Operating Procedures (SoP) for on-call support.</li>
       </ul>
     technologies_used: | 
-      AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
+      AWS, GCP, Docker, Cloud Run, Kafka, Kubernetes, Bitbucket pipeline, Terraform, Hashicorp Vault & Consul, Grafana, prometheus, kibana, elasticsearh.
 
   - role: DevSecOps Manager
     time: MAY 2022 - NOV 2022
@@ -112,29 +125,33 @@ experience:
     details: |
       Teaching online class docker, docker swarm, and kubernetes.
     technologies_used: | 
-      Docker and Kubernetes
+      Docker, Kubernetes, and AWS
   
   - role: DevOps Engineer 
     time: FEB 2019 - JUL 2020
     company: DAKSA
     details: |
-      Implemented the migration of microservices applications from on-prem server to GCP. <br />
-      Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins & Ansible. <br />
-      Built and deploy docker containers for implementing Microservices architecture. <br />
-      Provision Kubernetes cluster on on-prem server using kubeadm. <br />
-      Orchestrated docker container cluster using kubernetes.
+      <ul>
+        <li>Implemented the migration of microservices applications from on-prem server to GCP.</li>
+        <li>Developing and maintaining autometed CI/CD pipelines for code deployment using Jenkins & Ansible.</li>
+        <li>Built and deploy docker containers for implementing Microservices architecture.</li>
+        <li>Provision Kubernetes cluster on on-prem server using kubeadm.</li>
+        <li>Orchestrated docker container cluster using kubernetes.</li>
+      </ul>
     technologies_used: | 
-      Docker, Kubernetes, Jenkins, Maven, Wildfly, GlassFish
+      Docker, Kubernetes, Jenkins, Maven, Wildfly, GlassFish, Microsoft Azure, GCP
   
   - role: Network and System Administrator 
     time: MAR 2015 - FEB 2019
     company: DAKSA
     details: |
-      Setup High Availabilty and fail over using HAproy. <br />
-      Setup wildfly clustering. <br />
-      Setup PostgreSQL replication. <br />
-      Securing and Hardening Linux Server. <br />
-      Setup network topology using mikrotik router.
+      <ul>
+        <li>Setup High Availabilty and fail over using HAproy.</li>
+        <li>Setup wildfly clustering.</li>
+        <li>Setup PostgreSQL replication.</li>
+        <li>Securing and Hardening Linux Server.</li>
+        <li>Setup network topology using mikrotik router.</li>
+      </ul>
     technologies_used: | 
       Mikrotik router, PostgreSQL, WIldfly, GLassFish, HAproxy, Linux CentOS
   
@@ -142,8 +159,10 @@ experience:
     time: NOV 2013 - NOV 2014
     company: Melvar Lintasnusa PT
     details: |
-      Monitoring and troubleshooting network layer and servers. <br />
-      Install and configuring modem ADSL, Router (d-link, tp-link, MikroTik, etc)
+      <ul>
+        <li>Monitoring and troubleshooting network layer and servers.</li>
+        <li>Install and configuring modem ADSL, Router (d-link, tp-link, MikroTik, etc)</li>
+      </ul>
     technologies_used: | 
       Mikrotik router, ADSl/SDSL Modem.
 
@@ -151,7 +170,9 @@ experience:
     time: JAN 2013 - JUN 2013
     company: Firna Telemedia CV
     details: |
-      Install and configuring Wireless Access Point and cisco switch.
+      <ul>
+        <li>Install and configuring Wireless Access Point and cisco switch.</li>
+      </ul>
     technologies_used: | 
       Access Point Hardware, Cisco switch/router.
 
