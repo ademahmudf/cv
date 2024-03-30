@@ -60,7 +60,7 @@ profile: |
 experience:
   - role: Principal DevOps Engineer
     time: DEC 2022 - Present
-    company: Warung Pintar
+    company: Amartha Micro Fintek
     details: |
       <ul>
         <li>TBA</li>
@@ -73,14 +73,15 @@ experience:
     time: MAY 2022 - NOV 2022
     company: Warung Pintar
     details: |
-        - Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques.
-        - Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
-        Such as CICD, monitoring & logging, IaC implementation, secret management to achieve self service DevOps.
-        - Create core competencies for Cloud Platform team.
-        - Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, cost optimize and operational stability.
-        - Improve delivery process with CICD and GitOps Adoption.
-        - Implement FourKeys metrics to measure performance of software delivery.
-
+      <ul>
+        <li>Provide leadership and guidance across the SRE and DBA team, acting as a subject matter expert and leading best practice techniques.</li>
+        <li>Lead Cloud Platform team in ensuring technical assurance in significant projects, for the delivery of quality technical deliverables.
+        Such as CICD, monitoring & logging, IaC implementation, secret management to achieve self service DevOps.</li>
+        <li>Create core competencies for Cloud Platform team.</li>
+        <li>Do planning and Create DevSecOps roadmap to increase development velocity, delivery, security, cost optimize and operational stability.</li>
+        <li>Improve delivery process with CICD and GitOps Adoption.</li>
+        <li>Implement FourKeys metrics to measure performance of software delivery.</li>
+      </ul>
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, Gitlab-ci, ArgoCD, Terraform, Istio, Hashicorp Vault & Consul, Grafana, Loki, prometheus, victoria metrics, kibana, elasticsearh, jaeger.
  
@@ -88,15 +89,17 @@ experience:
     time: AUG 2020 - MAY 2022
     company: 99 Group
     details: |
-      Took lead to improve the development process by leveraging the technology stack and standarization. <br />
-      Building and maintaining high availability and scalability infrastructure on GCP using kubernetes,
+      <ul>
+      <li>Took lead to improve the development process by leveraging the technology stack and standarization.</li>
+      <li>Building and maintaining high availability and scalability infrastructure on GCP using kubernetes,
       and on AWS using ECS. <br />
-      Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger. <br />
-      Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD. <br />
-      Setup custom metrics on Kubernetes for scaling pods using QPS & Latency metrics. <br />
-      Implemented traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio. <br />
-      Implementing IaaC (Infrastructure as a Code) using terraform. <br />
-      Reduced the cost on cloud infrastructure by optimize the resources usage.
+      <li>Build and setup observaibility tools for monitoring (SLI/SLO), logging, and tracing infrastructure using grafana, loki, prometheus, jaeger.</li>
+      <li>Developing and maintaining autometed CI/CD pipelines with GitOps concept using travis-ci, jenkins, tekton and FluxCD.</li>
+      <li>Setup custom metrics on Kubernetes for scaling pods using QPS & Latency metrics.</li>
+      <li>Implemented traffic management, rate limiting, fault injection, GRPC loadbalancing using Istio.</li>
+      <li>Implementing IaaC (Infrastructure as a Code) using terraform.</li>
+      <li>Reduced the cost on cloud infrastructure by optimize the resources usage.</li>
+      </ul>
 
     technologies_used: | 
       AWS, GCP, Docker, Kubernetes, ECS, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, Istio, Flagger, Grafana, Loki, prometheus, kibana, elasticsearh, jaeger.
