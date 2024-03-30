@@ -50,7 +50,7 @@ skills:
       </ul>
 misc:
   - miscs: CV version 3.0
-  - miscs: Last update Sep 2022
+  - miscs: Last update Mar 2024
 
 # Profile
 profile: |
@@ -59,7 +59,7 @@ profile: |
   Experienced in building, maintaining, monitoring and securing infrastructure on cloud (GCP & AWS) 
   and on-premise, container orchestrator setup (such as Kubernetes), self-managed databases 
   (replication setup for DRC and automation), server hardening for banking systems, and setup automating
-  deployment using CI/CD Pipeline, and GitOps concept. <br />
+  deployment using CI/CD Pipeline and GitOps concept. <br />
   Building SRE & DBA team, acting as DevOps enabler to implement DevOps as a culture. <br /> 
   Experienced working with monolith & microservices architecture, High Availability and fail over topology.
 
@@ -70,13 +70,13 @@ experience:
     company: Amartha Mikro Fintek
     details: |
       <ul>
-        <li>Conducting an assessment of infrastructure and implementing improvements (enhancing website infrastructure 
+        <li>Conducting an assessment of existing infrastructure and implementing improvements (enhancing website infrastructure 
         to accommodate high traffic, optimizing cloud run configuration to handle high transactions per second).</li>
         <li>Upgrading PostgreSQL database from version 9.6 to version 11.</li>
         <li>Initiating a project for migration to Kubernetes.</li>
         <li>Initiating CI/CD for deployment to Kubernetes.</li>
         <li>Engaging in on-call support to enhance automation and reduce repetitive tasks.</li>
-        <li>Collaborating with the principal engineer to establish a "golden path," a team dedicated 
+        <li>Collaborating with the principal engineer to establish a "golden path". A team dedicated 
         to standardizing the technology to be utilized at Amartha.</li>
         <li>Implementing enhancements to our disaster recovery (DR) procedures to ensure compliance with regulations while optimizing costs.</li>
         <li>Assisting in the creation of Standard Operating Procedures (SoP) for on-call support.</li>
@@ -120,7 +120,7 @@ experience:
       AWS, GCP, Docker, Kubernetes, ECS, Travis-ci, Tekton, FluxCD, Jenkins, Terraform, Istio, Flagger, Grafana, Loki, prometheus, kibana, elasticsearh, jaeger.
   
   - role: Docker & Kubernetes Instructure 
-    time: AUG 2020 - Present
+    time: AUG 2020 - DEC 2022
     company: KUASAI.ID
     details: |
       Teaching online class docker, docker swarm, and kubernetes.
