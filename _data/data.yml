@@ -66,16 +66,16 @@ profile: |
 # Experience
 experience:
   - role: Engineering Manager (SRE/Infosec)
-      time: AUG 2024 - Current
-      company: FLIP
-      details: |
-        <ul>
-          <li>Provide leadership and guidance across the SRE and Infosec team, acting as a subject matter expert and leading best practice techniques.</li>
-          <li>Define KPI for SRE and Infosec team.</li>
-          <li>Do planning and Create SRE and Infosec roadmap to increase development velocity, delivery, security, cost optimize and operational stability.</li>
-        </ul>
-      technologies_used: | 
-        GCP, Docker, Kafka, Kubernetes, Gitlab, Terraform, VLGOT Stack, ArgoCD.
+    time: AUG 2024 - Current
+    company: FLIP
+    details: |
+      <ul>
+        <li>Provide leadership and guidance across the SRE and Infosec team, acting as a subject matter expert and leading best practice techniques.</li>
+        <li>Define KPI for SRE and Infosec team.</li>
+        <li>Do planning and Create SRE and Infosec roadmap to increase development velocity, delivery, security, cost optimize and operational stability.</li>
+      </ul>
+    technologies_used: | 
+      GCP, Docker, Kafka, Kubernetes, Gitlab, Terraform, VLGOT Stack, ArgoCD.
   
   - role: Principal DevOps Engineer
     time: DEC 2022 - JUL 2024
