@@ -75,7 +75,7 @@ experience:
         <li>Do planning and Create SRE and Infosec roadmap to increase development velocity, delivery, security, cost optimize and operational stability.</li>
       </ul>
     technologies_used: | 
-      GCP, Docker, Kafka, Kubernetes, Gitlab, Terraform, VLGOT Stack, ArgoCD.
+      GCP, Docker, Kafka, Kubernetes, Gitlab, Terraform, VLGOT Stack, ArgoCD, Datadog.
   
   - role: Principal DevOps Engineer
     time: DEC 2022 - JUL 2024
